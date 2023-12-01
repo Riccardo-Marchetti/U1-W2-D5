@@ -1,0 +1,136 @@
+body {
+  background-color: rgb(233, 233, 233);
+  font-family: arial;
+}
+header {
+  color: #eaeded;
+  background-color: #364d66;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+  font-family: arial;
+}
+span {
+  padding-right: 10px;
+  display: inline-block;
+  padding-top: 10px;
+}
+.all {
+  padding-left: 40px;
+}
+.logo {
+  width: 150px;
+  background-color: #222f3e;
+  padding-left: 40px;
+  padding-right: 2000px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+}
+.bg-dark {
+  color: #eaeded;
+  background-color: #2d4055;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 700;
+}
+.bg-yellow {
+  color: #eaeded;
+  background-color: #f56600;
+}
+.py-1 {
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 10px;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.h {
+  background-image: url(bg-image.png);
+  background-size: 1695px 150px;
+  background-image: cover;
+  height: 100px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+  text-align: center;
+  color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 40px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+h5 {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+a {
+  color: #eaeded;
+}
+.colorea {
+  color: rgb(0, 89, 172);
+  font-size: 15px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.a {
+  height: 510px;
+  background-color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+}
+h4 {
+  font-size: 20px;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: 550;
+}
+.imag {
+  width: 415px;
+  height: 432px;
+  box-shadow: 9px 3px 15px 14px rgba(99, 99, 99, 0.1);
+  border-radius: 16px;
+  margin-left: 30px;
+  object-fit: cover;
+}
+.foto {
+  margin-left: 40px;
+  margin-right: 40px;
+  width: 1825px;
+  margin-bottom: 0px;
+  padding-bottom: opx;
+}
+.testo {
+  text-align: center;
+  padding-top: 0px;
+}
+h3 {
+  font-size: 18px;
+  font-weight: 550;
+  padding-bottom: 30px;
+}
+.logo2 {
+  width: 200px;
+  background-color: #222f3e;
+  padding-bottom: 60px;
+  padding-top: 50px;
+}
+footer {
+  text-align: center;
+  background-color: #222f3e;
+}
